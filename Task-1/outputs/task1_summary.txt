@@ -1,0 +1,4 @@
+Input Text: This is a sample text for tokenization and encoding.
+Tokenized Input IDs: [[101, 2023, 2003, 1037, 7099, 3793, 2005, 19204, 3989, 1998, 17181, 1012, 102]]
+Decoded Tokens: ['[CLS]', 'this', 'is', 'a', 'sample', 'text', 'for', 'token', '##ization', 'and', 'encoding', '.', '[SEP]']
+Embeddings Shape: torch.Size([1, 13, 768])
